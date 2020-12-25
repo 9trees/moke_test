@@ -1,0 +1,815 @@
+1 Which of the junction diodes shown in figure is forward biased?                            
+2 A)
+3 <img height="84" id="Picture 1" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image001.jpg" width="88"/>
+4 B)
+5 <img height="86" id="Picture 2" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image002.jpg" width="89"/>
+6 C)
+7 <img height="79" id="Picture 3" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image003.jpg" width="84"/>
+8 D)
+9 <img height="79" id="Picture 4" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image004.jpg" width="86"/>
+10                           In junction p-section 
+11 <img height="17" id="Picture 71" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image005.jpg" width="47"/>
+12 n-section diode, In option [a] p-section is at -15 V and n-section at -10 V i.e., p-section is at lower potential than n-section so its reverse biased. Similarly, in [b] p-section is at + 5 V and n-section at +10 V, so reverse bias. Also, in [c] p-section is at -10 and n-section is at 0 V (earthed) so reverse bias. But in [d] p-section is at +10 V and n-section is at 0 V, so its forward bias.
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  D
+1 The velocity v of a particle at time t is given by\[\nu =at+\frac{b}{t+c}\], where, a, b and c are constants. The dimensions of a, b and c are                            
+2 A)
+3 \[[L],\,[LT]\,\,and\,\,[L{{T}^{-\,2}}]\]
+4 B)
+5 \[[L{{T}^{-\,2}}],\,\,[L]\,\,and\,\,[T]\]
+6 C)
+7 \[[{{L}^{\,2}}],\,\,[T]\,\,and\,\,[L{{T}^{-\,2}}]\]
+8 D)
+9 \[[L{{T}^{-\,2}}],\,[LT]\,and\,[L]\]
+10                           As, \[\operatorname{v}=\,\,at\,\,+\,\,\frac{b}{t+c}\] c can only be added to if it has same dimension at t, \[\therefore \,\,\,c=\left[ T \right]\] at must have dimension same as velocity i. e  \[at=\left[ L{{T}^{-}}^{1} \right] \Rightarrow \, a =\,\,\frac{[L{{T}^{-\,1}}]}{[T]}\,\,=\,\,[L{{T}^{-}}^{2}]\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 An equiconvex lens is cut into two halves along (i) XOX' and (ii) YOY' as shown in the figure. f, f', f' be the focal lengths of the complete lens, of each half in case (i), and of each half in case (ii), respectively, choose the correct statement from the following. 
+2 <img alt="" height="120" id="Picture 5" src="/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image006.jpg" width="105"/>
+3  
+4 A)
+5 \[\operatorname{f}'\,\,=\,\,f,\,\,f''=\,\,2f\]
+6 B)
+7 \[\operatorname{f}'\,\,=\,\,2f,\,\,f''=\,\,f\]
+8 C)
+9 \[\operatorname{f}'\,\,=\,\,f,\,\,f''=\,\,f\] 
+10 D)
+11 \[\operatorname{f}'\,\,=\,\,2f,\,\,f''=\,\,2f\]
+12                           Since the lens is equiconvex, the radius of curvature of each half is same, say R according to lens maker?s formula \[\frac{1}{f}=(\mu -1)\left( \frac{1}{{{R}_{1}}}-\frac{1}{{{R}_{2}}} \right)\]  (if lens is placed in air) Here, \[{{\operatorname{R}}_{1}}=R,\,\,{{R}_{2}}=-\,R\] (by sign convention) \[\therefore \,\,\,\,\,\,\,\,\,\,\,\,\,\frac{1}{f}=(\mu -1)\,\frac{2}{R}\] \[\Rightarrow \,\,\,\,\,\,\,\,\,\,\,(\mu -1)\frac{1}{R}=\frac{1}{2f}\] ... (i) If we cut the lens along XOX?, then two halves of the lens will be having the same radii of curvatures and so, \[\operatorname{Focal} length\,\,f' = \,f\] But when we cut it along YOY? then, we will have \[{{R}_{1}}=R\,\,but\,\,{{R}_{2}}=\infty \] \[\therefore \,\,\,\,\,\frac{1}{f''}=(\mu -1)\left( \frac{1}{R}-\frac{1}{\infty } \right)=(\mu -1)\frac{1}{R}=\frac{1}{2f}\] \[\Rightarrow \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\operatorname{f}'' = 2f\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  A
+1 Equation of progressive wave is given by \[y=\sin 4\left[ \pi \left( \frac{t}{5}-\frac{x}{9} \right)+\frac{\pi }{6} \right]\] where y, x are in cm and t is in seconds. Then, which of the following is correct?                            
+2 A)
+3 \[\operatorname{v} = 5 cm\]
+4 B)
+5 \[\lambda =18cm\]
+6 C)
+7 \[a= 0.04 cm\] 
+8 D)
+9 \[f=50\,\,Hz\]
+10                           The standard equation of a progressive wave is \[y=a\,\sin \,\left[ 2\pi \left( \frac{t}{T}-\frac{x}{\lambda } \right)+\phi \right]\] The given equation can be written as \[y=\,\,4\,\,\sin \,\left[ 2\pi \left( \frac{t}{10}-\frac{x}{18} \right)+\frac{\pi }{6} \right]\] Comparing with standard equation we have, \[\operatorname{a} = 4 cm,\,\,T= 10 s, \lambda =18 cm and \phi \,\,=\,\,\frac{\pi }{6}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 The given figure gives electric lines of force due to two charges\[{{\operatorname{q}}_{1}}\,\,and\,\,{{q}_{2}}\]. What are the sign of the two charges? 
+2 <img height="59" id="Picture 6" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image007.jpg" width="134"/>
+3  
+4 A)
+5 \[{{\operatorname{q}}_{1}}\] is positive but \[{{q}_{2}}\] is negative
+6 B)
+7 \[{{\operatorname{q}}_{1}}\] is negative but \[{{q}_{2}}\] is positive
+8 C)
+9 Both are negative
+10 D)
+11 Both are positive
+12                           Electric lines of force originate from the positive charge and end at negative charge. In the given figure electric lines for both the charges are ending. Therefore, both \[{{q}_{1}}\,\,and\,\,{{q}_{2}}\] are negative.
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 A capacitor of capacity \[{{C}_{1}}\] charged up to V volt and then connected to an uncharged capacitor of capacity \[{{C}_{2}}\] in parallel. Then, final potential difference across each will be                            
+2 A)
+3 \[\frac{{{C}_{2}}V}{{{C}_{1}}+{{C}_{2}}}\]
+4 B)
+5 \[\frac{{{C}_{1}}V}{{{C}_{1}}+{{C}_{2}}}\]
+6 C)
+7 \[\left( 1+\frac{{{C}_{2}}}{{{C}_{1}}} \right)\]
+8 D)
+9 \[\left( 1-\frac{{{C}_{2}}}{{{C}_{1}}} \right)V\] 
+10                           \[\operatorname{Charge} on {{1}^{st}}capacitor = {{q}_{1}}, =\,\,{{C}_{1}}V\] \[\operatorname{Charge}\,\,on\,\,{{2}^{nd}}\,\,capacitor\,\,=\,\,{{q}_{2}}\,\,=\,\,0\] When they are connected in parallel the total charge \[q={{q}_{1}}+{{q}_{2}}\] \[\therefore \,\,\,\,\,\,\,\,\,\,\,\operatorname{q}={{C}_{1}}V\] And capacitance, \[\operatorname{C}={{C}_{1}}\,+\,\,{{C}_{2}}\] Let V? be the common potential difference across each capacitors, then \[\operatorname{q} = CV'\] \[\therefore \,\,\,\,\,\,\,\,\,\,\,\,\operatorname{V}'=\frac{q}{C}\,\,=\,\,\frac{{{C}_{1}}}{{{C}_{1}}+{{C}_{2}}}V\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 Two similar coils of radius R are lying concentrically with their planes at right angles to each other. The current flowing in them are I and 2I, respectively. The resultant magnetic field induction at the centre will be                            
+2 A)
+3 \[\frac{\sqrt{5}{{\mu }_{0}}I}{2\,R}\]
+4 B)
+5 \[\frac{3{{\mu }_{0}}I}{2\,R}\]
+6 C)
+7 \[\frac{{{\mu }_{0}}I}{2\,R}\]
+8 D)
+9 \[\frac{{{\mu }_{0}}I}{R}\]
+10                           Magnetic field induction due to vertical loop at the centre O is 
+11 <img height="81" id="Picture 72" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image008.jpg" width="80"/>
+12  \[{{B}_{1}}=\frac{{{\mu }_{0}}l}{2R}\] It acts in horizontal direction. Magnetic field induction due to horizontal loop at the centre O is. \[{{B}_{2}}=\frac{{{\mu }_{0}}2l}{2R}\] It acts in vertically upward direction. As 6, and 63 are perpendicular to each other, therefore the resultant magnetic field induction at the centre O is \[{{B}_{net}}=\sqrt{B_{1}^{2}+B_{2}^{2}}=\sqrt{{{\left( \frac{{{\mu }_{0}}l}{2R} \right)}^{2}}+{{\left( \frac{{{\mu }_{0}}2l}{2R} \right)}^{2}}}\] \[=\,\,\,\,\frac{{{\mu }_{0}}l}{2R}\sqrt{{{l}^{2}}+{{2}^{2}}}=\frac{\sqrt{5}{{\mu }_{0}}l}{2R}\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  A
+1 A Zener diode having breakdown voltage equal to 15 V, is used in a voltage regulator. Circuit as shown in figure, the current through the diode is 
+2 <img height="85" id="Picture 7" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image009.jpg" width="174"/>
+3  
+4 A)
+5 5 mA 
+6 B)
+7 10 mA
+8 C)
+9 15 mA 
+10 D)
+11 20 mA
+12                           The voltage drop across \[1\,k\Omega \,\,=\,\,{{V}_{2}}=15\,V\] 
+13 <img height="84" id="Picture 73" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image010.jpg" width="175"/>
+14  The current through \[1 k\Omega \] is \[l'=\frac{15\,V}{1\times {{10}^{-\,3}}\,\Omega }\] \[=\,\,\,15\times 1{{0}^{-\,3}}\,A=\,\,15\,\,mA\] The voltage drop across \[2500 = 20 V\,-15V\]\[=\,\,5\,V\] The current through \[250\,\Omega \] is \[l=\frac{5\,V}{250\,\Omega }=0.02\,A\]\[=\,\,20mA\] The current through Zener diode is \[{{l}_{2}}=\,\,l-l'\,=\,\,\left( 20-15 \right)mA=\,\,5mA\]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  A
+1 A 200 V input is supplied to a transformer. The output circuit draws a current of 2.0 A at 440 V. If efficiency of transformer is \[80\,%\], the current drawn by the primary winding of the transformer is                            
+2 A)
+3 3.6 A 
+4 B)
+5 2.8 A
+6 C)
+7 2.5 A 
+8 D)
+9 5.0 A
+10                           Given, \[\left( Input voltage \right){{V}_{p}} =220 V\] \[\left( Output voltage \right){{V}_{s}} =440 V\] \[\left( Input current \right){{I}_{p}} = ?\] \[\left( Output current \right) {{l}_{s}} = 2 A\] Efficiency of the transformer, \[\eta = 80\,%\] Efficiency of the transformer is given by \[\eta = \frac{output\,\,power}{input\,\,power}=\frac{{{V}_{s}}{{l}_{s}}}{{{V}_{p}}{{l}_{p}}}\]\[or\,\,\,\,\,{{l}_{p}}=\frac{{{V}_{s}}{{l}_{s}}}{\eta {{V}_{p}}}=\frac{(440)(2)}{\left( \frac{80}{100} \right)(220)}=5\,A\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 A vibration magnetometer is placed in magnetic meridian has a small bar magnet. The magnet executes oscillations with a time period of 2 s in earth's horizontal magnetic field of 24 microtesla. When a horizontal field of 18 microtesla is produced opposite to the earth?s field by placing a current carrying wire, the new time period of magnet will be                            
+2 A)
+3 1 s 
+4 B)
+5 2 s
+6 C)
+7 3 s 
+8 D)
+9 4 s
+10                           The time period T of oscillation of a magnet is given by \[T=2\pi \,\sqrt{\frac{l}{MB}}\] where, l = moment of inertia of the magnet about axis of rotation \[\operatorname{M} = magnetic moment of the magnet\] \[\operatorname{B}= uniform magnetic field\] As the l, B remain the same \[\therefore \,\,\,\,\,\,\,\,T\propto \frac{1}{\sqrt{B}}\,\,or\,\,\frac{{{T}_{2}}}{{{T}_{1}}}=\sqrt{\frac{{{B}_{1}}}{{{B}_{2}}}}\] Given that \[{{\operatorname{B}}_{1}}=24\mu T,\,\,{{B}_{2}}=\,\,24\,\mu T-\,\,18\mu T\,\,=\,\,6\mu T\] \[{{T}_{1}}=\,\,2\,s\] \[\therefore \,\,\,\,\,\,{{T}_{2}}=(2s)\sqrt{\frac{24\,\mu T}{6\,\mu T}}=4\,s\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 A gramophone record is revolving with an angular velocity\[\omega \]. A coin is placed at a distance r from the centre of the record. The static coefficient of friction is \[\mu \] The coin will revolve with the record, if                            
+2 A)
+3 \[r=\mu g{{\omega }^{2}}\] 
+4 B)
+5 \[r<\,\,\frac{{{\omega }^{2}}}{\mu g}\]
+6 C)
+7 \[r\le \,\,\frac{\mu g}{{{\omega }^{2}}}\]
+8 D)
+9 \[r\ge \,\,\frac{\mu g}{{{\omega }^{2}}}\]
+10                           The coin will revolve with the record, If force of friction \[\ge \] centrifugal force \[\mu mg\ge \,\,mr{{\omega }^{2}}\,\,\Rightarrow \,\,r\,\,\le \,\,\frac{\mu g}{{{\omega }^{2}}}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  C
+1 Three particles, each of mass m gram, are situated at the vertices of an equilateral triangle ABC of side l cm (as shown in figure). The moment of inertia of the system about a line AX perpendicular to AB and in plane of ABC, in \[\operatorname{gram}-c{{m}^{2}}\] units will be 
+2 <img height="96" id="Picture 8" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image011.png" width="103"/>
+3  
+4 A)
+5 \[\frac{3}{4}m{{l}^{2}}\] 
+6 B)
+7 \[2m{{l}^{2}}\]
+8 C)
+9 \[\frac{5}{4}\,m{{l}^{2}}\] 
+10 D)
+11 \[\frac{3}{2}\,m{{l}^{2}}\]
+12                           The moment of inertia of the system \[=\,\,\,{{m}_{A}}{{r}_{A}}^{2}+\,\,{{m}_{B}}{{r}_{B}}^{2}+\,{{m}_{C}}{{r}_{C}}^{2}\] \[{{\operatorname{m}}_{A}},\,\,{{m}_{B}},{{m}_{C}}\] are masses at A,B,C respectively \[{{r}_{A}},\,\,{{r}_{B}},{{r}_{C}}\] are perpendicular distance from AX moment of inertia. 
+13 <img height="126" id="Picture 74" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image012.jpg" width="137"/>
+14  \[=\,\,{{m}_{A}}{{(0)}^{2}}+m{{(l)}^{2}}+\,\,m{{(l\,sin\,\,30{}^\circ )}^{2}}\] \[=\,\,\,m{{l}^{2}}+\,\,m{{l}^{2}}\left( \frac{1}{4} \right)\,\,=\,\,\frac{5}{4}m{{l}^{2}}\]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  C
+1 The thermodynamic process is shown in the figure, the pressure and volume corresponding to some points in the figure are 
+2 <img height="99" id="Picture 9" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image013.jpg" width="109"/>
+3  \[{{p}_{A}}=3\times {{10}^{4}}\,Pa;\,\,{{V}_{A}}=2\times {{10}^{-\,3}}\,{{m}^{3}}\] \[{{p}_{B}}=8\times {{10}^{4}}\,Pa;\,\,{{V}_{D}}=5\times {{10}^{-\,3}}\,{{m}^{3}}\] In the process AB, 600 J of heat is added to the system and in process BC, 200 J of heat is added to the system. The change in internal energy of the system in process AC would be                            
+4 A)
+5 560 J 
+6 B)
+7 800 J
+8 C)
+9 600 J
+10 D)
+11 640 J
+12                           Since AB is isochoric process, so no work is done, i.e., \[{{W}_{AB}}=0\] BC is isobaric process \[{{W}_{BC}}={{P}_{B}}({{V}_{D}}-{{V}_{A}})=240J\] Therefore, \[\Delta Q = 600 + 200 = 800 J\] Using \[\Delta Q=\,\,\Delta U+\Delta W\] \[\Rightarrow \,\,\,\,\Delta U=\,\,\Delta Q-\Delta W\,\,=\,\,800-\,\,240\,\,=\,\,560\,J\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  A
+1 According to Einstein's photoelectric equation, the graph between the kinetic energy of photoelectrons ejected, and the frequency of incident radiation is                            
+2 A)
+3 <img alt="" height="101" id="Picture 10" src="/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image014.jpg" width="99"/>
+4 B)
+5 C)
+6 <img alt="" height="98" id="Picture 12" src="/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image016.jpg" width="98"/>
+7 D)
+8                           The maximum kinetic energy of photoelectron ejected is given by \[\operatorname{KE}=\,\,h\nu -W\,\,=\,\,h\nu -\,\,h{{\nu }_{0}}\]where, work function depends on the type of material. 
+9 <img alt="" height="103" id="Picture 75" src="/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image018.png" width="114"/>
+10  If the frequency of incident radiation is greater than \[{{\nu }_{0}}\] only then the ejection of photoelectrons start. After that as frequency increases kinetic energy also increases.
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 In the network shown in figure each resistance is\[1\,\Omega \]. The effective resistance between A and B is 
+2 <img height="94" id="Picture 14" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image019.jpg" width="172"/>
+3  
+4 A)
+5 \[\frac{4}{3}\,\,\Omega \]
+6 B)
+7 \[\frac{3}{2}\,\,\Omega \]
+8 C)
+9 \[7\,\,\Omega \]
+10 D)
+11 \[\frac{8}{7}\,\,\Omega \]
+12 <img height="95" id="Picture 76" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image020.jpg" width="168"/>
+13  By symmetry, currents \[{{i}_{1}}\,\,and\,\,{{i}_{2}}\] form A is same as \[{{i}_{1}}\,\,and\,\,{{i}_{2}}\] reaching B. As the same current is flowing from A to B and O to B. O can be treated as detached from AB. Now, CO and OD will be in series hence, its total resistance = \[2\,\Omega \] It is in parallel with CD so equivalent resistance \[=\,\,\frac{2\times 1}{2+1}=\frac{2}{3}\,\Omega \] This equivalent resistance is in series with AC and DB, so \[\operatorname{total} resistance = \frac{2}{3} +1 +1 = \frac{8}{3}\,\Omega \] Now, \[\frac{8}{3}\,\Omega \] is parallel to AB that is \[2\,\Omega \]. So, total resistance \[=\,\,\frac{(8/3)\times 2}{(8/3)+2}=\frac{\frac{16}{3}}{\frac{14}{3}}=\frac{16}{14}=\frac{8}{7}\,\Omega \]
+14 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+15 Correct Answer: 
+                  D
+1 A particle is executing linear simple harmonic motion about origin\[\operatorname{x} = 0\]. Which of the group shown in figure represent the variation of the potential energy function U(x) versus x?                            
+2 A)
+3 <img height="83" id="Picture 15" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image021.jpg" width="91"/>
+4 B)
+5 <img height="86" id="Picture 16" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image022.jpg" width="93"/>
+6 C)
+7 <img height="84" id="Picture 17" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image023.jpg" width="92"/>
+8 D)
+9 <img height="84" id="Picture 18" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image024.jpg" width="93"/>
+10                           In simple harmonic motion, the force acting on the particle (restoring force) is given by \[\operatorname{F} = - kx\] (where k is positive constant) Now, \[F=-\frac{dU}{dx}\] \[\therefore \,\,\,\,-kx=-\frac{dU}{dx}\,\,\,\,\,or\,\,\,dU=kdx\] \[\therefore \,\,\,\,\,\,U(x)=\int_{0}^{x}{kdx}=\frac{1}{2}k{{x}^{2}}+C\]  (C is constant of integration) In SHM the potential energy of the oscillator is zero at mean position, i.e., \[\operatorname{U}\left( 0 \right) =0\], Hence, \[\operatorname{c}= 0\] \[\therefore \,\,\,\,\,\,\,U\text{(}x)=\frac{1}{2}k{{x}^{2}}.\]which is equation of upward opening parabola.
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 A syringe containing water is held horizontally with its nozzle at a height h above the ground as shown in figure. The cross-sectional areas of the piston and the nozzle are A and a respectively. The piston is pushed with a constant speed v. The horizontal range R of the stream of water on the ground is 
+2 <img height="101" id="Picture 19" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image025.jpg" width="184"/>
+3  
+4 A)
+5 \[R=v\sqrt{\frac{2h}{g}}\] 
+6 B)
+7 \[R=v\sqrt{\frac{h}{2g}}\]
+8 C)
+9 \[R=\frac{av}{A}\sqrt{\frac{2h}{g}}\]
+10 D)
+11 \[R=\frac{Av}{a}\sqrt{\frac{2h}{g}}\]
+12                           Let v be the horizontal speed of water when it emerges from the nozzle. From the equation of continuity, we have \[\operatorname{AV}=\,\,av\,\,\,or\,\,v=\,\,\frac{AV}{a}\] ... (i) Let t be the time taken by the stream of water to strike the ground. The horizontal and vertical distances covered in time t are \[\operatorname{R}=vt\]  ... (ii) \[h=\frac{1}{2}\] ... (iii) From Eq. (iii), we have \[t=\sqrt{\frac{2h}{g}}\] Using this value in Eq. (ii), we get \[R=v\sqrt{\frac{2h}{g}}\] ... (iv) Using Eqs. (i) and (iv), we have \[R=\frac{AV}{a}\sqrt{\frac{2h}{g}}\] 
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  D
+1 Which of the following is the altitude-time graph (figure) for a projectile thrown horizontally form the top of the tower?                            
+2 A)
+3 <img height="96" id="Picture 20" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image026.jpg" width="107"/>
+4 B)
+5 <img height="95" id="Picture 21" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image027.jpg" width="105"/>
+6 C)
+7 <img height="96" id="Picture 22" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image028.jpg" width="108"/>
+8 D)
+9 <img height="97" id="Picture 23" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image029.jpg" width="106"/>
+10                           Let H be the height of tower, then \[\operatorname{h}=\,\,H - \frac{1}{2}\,g{{t}^{2}}\]This expression shows that h decreases with time. Further the graph will be a parabola. This is shown in Fig. [d].
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 A body is projected at an angle \[\theta \] with the horizontal. When it is at highest point, the ratio of the potential and kinetic energies of the body is                             
+2 A)
+3 \[\tan \,\theta \] 
+4 B)
+5 \[{{\tan }^{2}}\,\theta \]
+6 C)
+7 \[\frac{2u}{g\,\sin \,\theta }\] 
+8 D)
+9 \[\frac{u}{g\,\sin \,\theta }\]
+10                           \[\operatorname{Potential}\,\,energy=mg\,\,{{h}_{max}}\] \[=\,\,mg\left( \frac{{{\mu }^{2}}{{\sin }^{2}}\theta }{2g} \right)\] \[=\,\,\,\frac{m{{u}^{2}}{{\sin }^{2}}\theta }{2}\] \[Kinetic\text{ }energy=\,\,\frac{1}{2}m\,{{(u\,cos\text{ }\theta )}^{2}}\] \[\therefore \,\,\,\,\,\,\,\,\,\,\frac{PE}{KE}={{\tan }^{2}}\theta \]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 The power of a biconvex lens is 10 dioptre and the radius of curvature of each surface is 10 cm. Then, the refractive index of the material of the lens is                            
+2 A)
+3 \[\frac{3}{2}\]
+4 B)
+5 \[\frac{4}{3}\]
+6 C)
+7 \[\frac{9}{8}\]
+8 D)
+9 \[\frac{5}{3}\]
+10                           Power of lens P (in dioptre) \[=\,\,\,\frac{100}{focal\,length\,f(in\,cm)}\] \[\therefore f=\frac{100}{10}=10\,\,cm\] According to lens maker?s formula \[\frac{1}{f}=(\mu -1)\left( \frac{1}{{{R}_{1}}}-\frac{1}{{{R}_{2}}} \right)\] For biconvex lens, \[{{\operatorname{R}}_{1}}=\,\,+R,\,\,{{R}_{2}}=-R\] \[\therefore \,\,\,\,\,\,\,\,\frac{1}{f}=(\mu -1)\left( \frac{1}{R}+\frac{1}{R} \right)\] \[\frac{1}{f}=(\mu -1)\left( \frac{2}{R} \right)\] \[\frac{1}{10}=(\mu -1)\left( \frac{2}{10} \right)\] \[(\mu -1)=\frac{1}{2}\,\,or\,\,\,\frac{3}{2}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  A
+1 Two beams of light of intensity \[{{I}_{1}}\,\,and\,\,{{I}_{2}}\] interfere to give an interference pattern. If the ratio of maximum intensity to minimum intensity is \[\frac{25}{9}\]then \[{{I}_{1}}\,/\,\,{{I}_{2}}\] is                            
+2 A)
+3 5/3 
+4 B)
+5 4
+6 C)
+7 81/625 
+8 D)
+9 16
+10                           \[\frac{{{l}_{\max }}}{{{l}_{\min }}}=\frac{{{(a+b)}^{2}}}{{{(a-b)}^{2}}}=\frac{25}{9}\] \[\therefore \,\,\,\,\frac{a+b}{a-b}=\frac{5}{3}\,\,or\,\,5a-5b=3a+3b\] \[\Rightarrow \,\,\,\,\,\,\,\,\,\,\,\,a=4b\] \[\therefore \,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\frac{{{l}_{1}}}{{{l}_{2}}}=\frac{{{a}^{2}}}{{{b}^{2}}}=\frac{{{(4b)}^{2}}}{{{b}^{2}}}=16\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 Figure shows a spherical Gaussian surface and a charge distribution. When calculating the flux of electric field through the Gaussian surface, the electric field will be due to 
+2 <img height="73" id="Picture 24" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image030.jpg" width="93"/>
+3  
+4 A)
+5 \[+\,{{q}_{3}} alone\] 
+6 B)
+7 \[+\,{{q}_{1}} and\,\,+{{q}_{3}}\]
+8 C)
+9 \[+\,{{q}_{1}}+{{q}_{3}}\,and\,\,-{{q}_{2}}\] 
+10 D)
+11 \[+\,{{q}_{1}}\,\,and\,\,-{{q}_{2}}\]
+12                           The electric flux is given by surface integral \[\int \,\,E\,\cdot \,ds\] Here, the electric field E is due to all the charges, both inside and outside the Gaussian surface.
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 The magnifying power of objective of a compound microscope is 5. If the magnifying power of microscope is 30, then magnifying power of eyepiece will be                            
+2 A)
+3 0.17 
+4 B)
+5 6
+6 C)
+7 3 
+8 D)
+9 25
+10                           Magnifying power of microscope is given by \[\operatorname{M}=\,\,{{M}_{o}}\times \,\,{{M}_{e}}\] \[{{\operatorname{M}}_{o}}= magnifying power of objective piece\] \[{{\operatorname{M}}_{e}} =magnifying power of eyepiece\] \[\therefore \,\,\,\,\,30=5\times {{M}_{e}}\] \[{{M}_{e}}=\frac{30}{5}=6\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 A small body of mass m slides down from the top of a hemisphere of radius r (figure). The surface of block and hemisphere are frictionless. The height at which the body loose contact with the surface of sphere is 
+2 <img height="66" id="Picture 25" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image031.png" width="155"/>
+3  
+4 A)
+5 \[\frac{3}{2}\,r\] 
+6 B)
+7 \[\frac{2}{3}\,r\]
+8 C)
+9 \[\frac{1}{2}\,g{{t}^{2}}\] 
+10 D)
+11 \[\frac{{{v}^{2}}}{2g}\]
+12                           The body will loose contact when centripetal acceleration becomes equal to the component of acceleration due to gravity along the radius. Velocity at \[v=\,\,\sqrt{2g(r-h)}\,(\because \,\,{{v}^{2}}-{{u}^{2}}=2gx)\] Centripetal acceleration will be \[\frac{{{v}^{2}}}{r}\]. It should be equal to the component of g along PO. 
+13 <img height="81" id="Picture 77" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image032.jpg" width="164"/>
+14  Hence, \[\frac{{{v}^{2}}}{r}=\,\,g\,\cos \theta \] or \[\frac{2g\,\,(r-h)}{r}=g\,\,\times \,\,\frac{h}{r}\] Solving, we get \[h=\frac{2r}{3}\]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  B
+1 A block of weight 5 N is pushed against vertical wall by a force 12 N. The coefficient of friction between the wall and block is 0.6. The magnitude of the force exerted by the wall on the block is 
+2 <img height="115" id="Picture 26" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image033.jpg" width="113"/>
+3                             
+4 A)
+5 12 N 
+6 B)
+7 5 N
+8 C)
+9 7.2 N 
+10 D)
+11 13 N
+12                           \[\operatorname{Force} applied = 12 N\] \[\therefore \,\,\,\,\,\,\,\,\,\,{{f}_{\max }}\,\,=\,\mu R\times \,0.6\times 12\,N\,\,=\,\,7.2\,\,N\] This shows that \[{{f}_{\max }}\,>W\] The net contact force is given by \[F=\sqrt{{{R}^{2}}+{{f}^{2}}}=\sqrt{{{12}^{2}}+{{5}^{2}}}\] \[=\,\,\sqrt{144+25}\] \[\operatorname{F}=13\,\,N\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  D
+1 The moment of inertia of a thin square plate ABCD (figure) of uniform thickness about an axis passing through the centre of and perpendicular to the plane of plate is 
+2 <img height="93" id="Picture 27" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image034.jpg" width="124"/>
+3  
+4 A)
+5 \[{{l}_{1}}+{{l}_{3}}\]
+6 B)
+7 \[{{l}_{2}}+{{l}_{3}}+{{l}_{4}}\]
+8 C)
+9 \[{{l}_{2}}+{{l}_{3}}\] 
+10 D)
+11 \[{{l}_{1}}+{{l}_{2}}+{{l}_{3}}+{{l}_{4}}\]
+12                           Applying the theorem of perpendicular axes \[{{l}_{0}}={{l}_{1}}+{{l}_{2}}={{l}_{3}}+{{l}_{4}}\] From symmetry of axes\[{{l}_{1}}\,\,and\,\,{{l}_{2}}\] and \[{{l}_{3}}\,\,and\,\,{{l}_{4}}\] \[\therefore \,\,\,\,\,\,\,\,\,{{l}_{0}}=2{{l}_{2}}=2{{l}_{3}}\,\,i.e.,\,\,{{l}_{2}}={{l}_{3}}\] Now, \[{{l}_{0}}={{l}_{1}}+{{l}_{3}}\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  A
+1 The work done in turning a magnet, moment M by an angle of \[90{}^\circ \] from the meridian is n times the corresponding work done to turn it through an angle of \[60{}^\circ \].                            
+2 A)
+3 \[n=\frac{1}{2}\] 
+4 B)
+5 \[\operatorname{n} = 2\]
+6 C)
+7 \[\operatorname{n} = \frac{1}{4}\] 
+8 D)
+9 \[\operatorname{n}=1\]
+10                           Work done \[\operatorname{W} = MB\left( cos {{\theta }_{1}} - cos {{\theta }_{2}} \right)\] In first case, \[{{\theta }_{1}}=0\,\,and\,\,{{\theta }_{2}}=90{}^\circ \] \[\Rightarrow \,\,\,\,\,\,\,\,{{\operatorname{W}}_{1}}=MB\left( cos\,\,0{}^\circ -\cos \,\,90{}^\circ \right)=MB\] In second case, \[{{\theta }_{1}} = 0{}^\circ and {{\theta }_{2}} = 60{}^\circ \] \[{{W}_{2}}=MB\left( 1-\frac{1}{2} \right)=\frac{MB}{2}\] Given, \[{{W}_{1}}=n{{W}_{2}}\] \[\therefore \,\,\,\,\,\,\,\,\,MB=n\frac{MB}{2}\,\,\,\Rightarrow \,\,n=2\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 A student A does the capillary rise experiment at equator and gets the surface tension value\[{{T}_{A}}\]. Another student does the same experiment in same conditions at poles and gets the surface tension value\[{{T}_{B}}\].                            
+2 A)
+3 \[{{T}_{A}}>{{T}_{B}}\] 
+4 B)
+5 \[{{T}_{A}}<{{T}_{B}}\]
+6 C)
+7 \[{{T}_{A}}={{T}_{B}}\] 
+8 D)
+9 None of these
+10                           As, \[T=\frac{rh\rho g}{2\,\cos \,\theta }\] and \[{{g}_{at\,\,equator}}\,=\,\,{{g}_{at\,\,poles}}\] \[\Rightarrow \,\,\,\,\,\,{{T}_{equator}}<{{T}_{pole}}\] \[\Rightarrow \,\,\,\,\,\,{{T}_{A}}<{{T}_{B}}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 In the circuit of given figure, the current following through resistance R at resonance is 
+2 <img height="82" id="Picture 28" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image035.png" width="139"/>
+3  
+4 A)
+5 zero 
+6 B)
+7 \[\operatorname{V}/R\]
+8 C)
+9 \[\frac{\operatorname{V}}{\sqrt{{{R}^{2}}+{{\omega }^{2}}{{L}^{2}}}}\]
+10 D)
+11 \[\frac{\operatorname{V}}{\sqrt{{{R}^{2}}+\,\,(1/\omega {{L}^{2}})}}\]
+12                           At resonance, the currents through inductance and capacitance are equal in magnitude but opposite in phase. Hence, current through R will be zero.
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  A
+1 Two particles A and B are projected with same speed so that the ratio of their maximum height reached is\[3 :1\]. If the speed of A is doubled without altering other parameters, the ratio of the horizontal ranges obtained by A and B is                            
+2 A)
+3 \[1:1\]  
+4 B)
+5 \[2:1\]
+6 C)
+7 \[4:1\] 
+8 D)
+9 \[3:2\]
+10                           Let\[{{\theta }_{1}}\,\,~and\,\,{{\theta }_{2}}\]be the angles of projection, of two particles A and B and u be their velocity of projection. As per equations, \[\frac{{{H}_{1}}}{{{H}_{2}}}=\frac{{{\mu }^{2}}{{\sin }^{2}}{{\theta }_{1}}/2g}{{{\mu }^{2}}{{\sin }^{2}}{{\theta }_{2}}/2g}\] \[=\,\,\frac{{{\sin }^{2}}{{\theta }_{1}}}{{{\sin }^{2}}{{\theta }_{2}}}=\frac{3}{1}\] \[\frac{\sin {{\theta }_{1}}}{\sin {{\theta }_{2}}}=\sqrt{3}=\tan \,\,60{}^\circ \,\,\Rightarrow \,\frac{\sin \,60{}^\circ }{\cos \,30{}^\circ }\,=\frac{\sin \,60{}^\circ }{\sin \,30{}^\circ }\] \[\therefore \,\,\,\,\,\,\,\,\,{{\theta }_{1}} = 60{}^\circ and {{\theta }_{2}} = 30{}^\circ \]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  C
+1 Particle each of mass m are falling into weighing pan from height H at a rate of n particles per second. Find reading of weighing pan after time T, if collision of particle with weighing pan is perfectly inelastic. (Neglect oscillation of weighing pan). 
+2 <img height="93" id="Picture 29" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image036.jpg" width="60"/>
+3  
+4 A)
+5 \[\operatorname{mgH} + mgnT\] 
+6 B)
+7 \[mn\,(gT\,+\,\,\sqrt{2\,\,gH})\]
+8 C)
+9 \[\operatorname{mng}\,\sqrt{2\,gH}\] 
+10 D)
+11 None of these
+12                           Reading of weighing pan is due to two reasons = [Force due to momentum transfer to it + force due to weight] Force exerted due to momentum transfer \[\frac{dp}{dt}=\frac{d}{dt}[m\sqrt{2gH}\,\times nT]=mn\sqrt{2gH}\] Force due to weight \[=\,\,\,mg \times \,\,nT = mgn\,T\] \[\therefore \] Reading to weighing \[\operatorname{pan}=mgn\,T\,\,+\,\,mn\,\sqrt{2gH}\] \[=\,\,\,mn(gT\,\,+\,\,\sqrt{2gH})\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  B
+1 Choose the incorrect option.                             
+2 A)
+3 If electric field has zero value at a certain point the electric potential has to be zero at that point
+4 B)
+5 If electric potential has zero value at a certain point then electric field has to be zero at that point
+6 C)
+7 If electric field at certain point is non-zero then electric potential has to be non-zero at that point
+8 D)
+9 None of these are correct
+10                           If \[\operatorname{V}= 0\] then E may be non-zero for example as shown in figure at P, \[\operatorname{V} = 0\], put \[E\ne 0\] 
+11 <img height="90" id="Picture 78" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image037.png" width="117"/>
+12  If \[\operatorname{E} = 0\], then V may be non-zero for example at centre of charged ring only E is zero whereas V is non-zero. If \[\operatorname{E} \ne 0\] then V may be zero (as shown in figure)
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  D
+1 Find the force F to be applied on M, so that m remains stationary with respect to M? 
+2 <img height="84" id="Picture 30" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image038.png" width="121"/>
+3  
+4 A)
+5 \[\left( M+m \right)g\] 
+6 B)
+7 \[\left( M + m \right) g\,sin\,\theta \]
+8 C)
+9 \[\left( M+m \right)g\,cos\,\theta \] 
+10 D)
+11 \[\left( M+m \right)g\,\tan \,\theta \]
+12                           If we work in frame of wedge the free body diagram for small block is as follows 
+13 <img height="118" id="Picture 79" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image039.png" width="150"/>
+14  For block to remain stationary \[\operatorname{ma}\,cos \theta =mg\,sin \theta \] \[\Rightarrow ~~a=\,\,g\,\,tan\,\theta \] ... (i) Now, we assume whole system \[\left( M+m \right)\] is moving with acceleration a \[\operatorname{F}=\left( M+m \right)a\,\,\Rightarrow \,\, a=\,\,\frac{F}{(M+m)}\] ... (ii) By Eqs. (i) and (ii), we get \[\operatorname{F}=\,\,\left( M+m \right)g\,tan\,\theta \]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  D
+1 Two short magnets have equal pole strengths but one is twice as long at the other. The shorter magnet is placed 20 cm in tan A position from the compass needle, the longer magnet must be placed on the other side of the magnetometer for no deflection at a distance equal to                            
+2 A)
+3 \[20\times {{\left( 2 \right)}^{1/3}}\,cm\] 
+4 B)
+5 \[20\times {{\left( 2 \right)}^{2/3}}\,cm\]
+6 C)
+7 20 cm 
+8 D)
+9 \[20\times \left( 2 \right)\,\,cm\]
+10                           For no deflection in tan A position \[\frac{{{\mu }_{0}}2{{M}_{1}}}{4\pi d_{1}^{3}}=\frac{{{\mu }_{0}}}{4\pi }\frac{2{{M}_{2}}}{d_{2}^{3}}\] \[\frac{{{M}_{1}}}{{{M}_{2}}}={{\left( \frac{{{d}_{1}}}{{{d}_{2}}} \right)}^{3}}\] \[\left( \frac{1}{2} \right)={{\left( \frac{20}{{{d}_{2}}} \right)}^{3}}\] \[{{d}_{2}}=\,20\times {{\left( 2 \right)}^{1/3}}\,cm\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  A
+1 The potential difference between A and B in the following figure is 
+2 <img height="33" id="Picture 31" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image040.jpg" width="266"/>
+3  
+4 A)
+5 12 V 
+6 B)
+7 24 V
+8 C)
+9 48 V 
+10 D)
+11 None of these
+12                           \[{{\operatorname{V}}_{A}}-(6\times 2)-12-(9\times 2)+4-(5\times 2)=\,\,{{V}_{B}}\] \[\Rightarrow \,\,\,\,\,\,\,\,{{V}_{A}}-12-12-18+4-10\,\,=\,\,{{V}_{B}}\] \[{{V}_{A}}-{{V}_{B}}=48\,V\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 In figure shown what will be the net potential at point P due to four point charges? 
+2 <img height="110" id="Picture 32" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image041.jpg" width="189"/>
+3  
+4 A)
+5 \[\frac{q}{4\pi {{\varepsilon }_{0}}d}\] 
+6 B)
+7 \[\frac{-2q}{4\pi {{\varepsilon }_{0}}d}\]
+8 C)
+9 \[\frac{q}{4\pi {{\varepsilon }_{0}}d}\] 
+10 D)
+11  \[\frac{-q}{4\pi {{\varepsilon }_{0}}d}\]
+12                           Net potential at point P is given by \[V=\left[ \frac{2q}{4\pi {{\varepsilon }_{0}}d}+\frac{2q}{4\pi {{\varepsilon }_{0}}d}-\frac{2q}{4\pi {{\varepsilon }_{0}}d}-\frac{2q}{4\pi {{\varepsilon }_{0}}(2d)} \right]\] \[=\,\,\frac{2q}{4\pi {{\varepsilon }_{0}}}\left[ \frac{1}{2d} \right]=\frac{2q}{8\pi {{\varepsilon }_{0}}d}=\frac{q}{4\pi {{\varepsilon }_{0}}d}\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 The length of a metal wire is \[{{L}_{1}}\] when the tension in it is \[{{T}_{1}}\,and\,\,{{L}_{2}}\] when tension in it is \[{{T}_{2}}\]. The original length of the wire is                            
+2 A)
+3 \[\frac{\sqrt{{{T}_{1}}{{T}_{2}}}}{{{L}_{1}}+{{L}_{2}}}\]
+4 B)
+5 \[\frac{{{T}_{1}}{{L}_{1}}\,-\,\,{{T}_{2}}{{L}_{2}}}{{{T}_{1}}+{{T}_{2}}}\]
+6 C)
+7 \[\frac{{{T}_{2}}{{L}_{1}}\,-\,\,{{T}_{1}}{{L}_{2}}}{{{T}_{2}}-{{T}_{1}}}\]
+8 D)
+9 \[\frac{{{T}_{1}}{{L}_{1}}\,-\,\,{{T}_{2}}{{L}_{2}}}{{{T}_{1}}+{{T}_{2}}}\]
+10                           Let \[\operatorname{L} =original length of wire\] \[\therefore \,\,\,\,\,\,\,\,\,\Delta {{L}_{1}}={{L}_{1}}-L\] Similarly, change in length of second wire is \[\Delta {{L}_{2}}={{L}_{2}}-L\] Now, \[Y=\frac{{{T}_{1}}}{A}\times \frac{L}{\Delta {{L}_{1}}}=\frac{{{T}_{2}}}{A}\times \frac{L}{\Delta {{L}_{2}}}\] \[\Rightarrow \,\,\,\,\,\,\,\,\,\,\,\frac{{{T}_{1}}}{\Delta {{L}_{1}}}\,=\frac{{{T}_{2}}}{\Delta {{L}_{2}}}\] \[\frac{{{T}_{1}}}{{{L}_{1}}-L}\,=\frac{{{T}_{2}}}{{{L}_{2}}-L}\] \[L=\frac{{{T}_{2}}{{L}_{1}}-{{T}_{1}}{{L}_{2}}}{{{T}_{2}}-{{T}_{1}}}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  C
+1 A magnetic flux \[\phi =at(\tau -t)\] through a stationary loop with a resistance R varies during the time interval\[\tau \]. The amount of heat generated in the loop during that time is (neglect inductance of loop)                            
+2 A)
+3 \[\frac{3\,R\,{{\tau }^{3}}}{{{a}^{2}}}\]
+4 B)
+5 \[\frac{{{a}^{3}}}{3\,R{{\tau }^{2}}}\]
+6 C)
+7 \[\frac{3R\,a\tau }{4}\]
+8 D)
+9 \[\frac{{{a}^{2}}{{\tau }^{2}}}{3R}\]
+10                           The net amount of heat generated in a small time dt is \[dQ=\frac{{{E}^{2}}}{R}dt\] \[E=\,\,-\,\frac{d\phi }{dt}=(2at\,-\,a\tau )\] \[\Rightarrow \,\,\,\,\,\,dQ=\frac{{{(2at-a\tau )}^{2}}}{R}dt\] \[Q=\int\limits_{0}^{\tau }{\frac{{{(2at-a\tau )}^{2}}}{R}}dt=\frac{{{a}^{2}}{{\tau }^{3}}}{3\,R}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 If the displacement time graph of a particle executing SHM is as shown in figure 
+2 <img height="91" id="Picture 33" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image042.jpg" width="151"/>
+3  The corresponding force-time graph of the particle is                            
+4 A)
+5 <img height="90" id="Picture 34" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image043.jpg" width="157"/>
+6 B)
+7 <img height="90" id="Picture 35" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image044.jpg" width="156"/>
+8 C)
+9 <img height="69" id="Picture 36" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image045.jpg" width="94"/>
+10 D)
+11 <img height="69" id="Picture 37" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image046.jpg" width="93"/>
+12                           As restoring force \[\operatorname{F} \propto -\left( y \right)\] So, graph [b] will represent the correct relation between F and t.
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 A boy of mass 50 kg is standing at one end on a boat of length 25 m and mass 200 kg. If he starts running and when he reaches the other end he has velocity 2 m/s with respect to the boat. The final velocity of the boat is (in m/s).                            
+2 A)
+3 \[\frac{2}{3}\]
+4 B)
+5 \[\frac{2}{5}\]
+6 C)
+7 \[\frac{8}{9}\] 
+8 D)
+9 \[\frac{5}{7}\]
+10                           Let v be the velocity of the boat with respect to water then from conservation of linear momentum. \[\left( 200+50 \right) v+50\times 2 =50\times 0+200\times 0\] \[250\,v=-\,100\] \[v=-\frac{2}{5}m/s\] \[\left| v \right|=\frac{2}{5}m/s\] The negative sign indicates that velocity of boat is opposite to the velocity of boy.
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 A man of mass m is standing on a structure made up of pulley, strings and platform as shown in figure. Find the force exerted by the person on the rope, so that the system \[\left( person + structure \right)\] remains in equilibrium. 
+2 <img height="138" id="Picture 38" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image047.png" width="90"/>
+3  
+4 A)
+5 \[\left( M' +M+m \right)g\] 
+6 B)
+7 \[\frac{\left( M' +M+m \right)g}{g}\]
+8 C)
+9 \[\frac{\left( M' +M+m \right)g}{2}\] 
+10 D)
+11 None of these
+12                           The free body diagram of the system is shown below 
+13 <img height="213" id="Picture 80" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image048.jpg" width="200"/>
+14  By force balance \[T+\frac{T}{2}+\frac{T}{2}=(M'+M+m)g\] \[T=\frac{(M'+M+m)g}{2}\]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  C
+1 A non-conducting infinitely long plane sheet has given a charge in such a way that \[{{Q}_{1}}\] appears on one side and \[{{Q}_{2}}\] appears on other side. The face area of plate is A, then electric at points 1 and 2 is 
+2 <img height="126" id="Picture 39" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image049.jpg" width="116"/>
+3  
+4 A)
+5 \[\frac{{{Q}_{1}}-{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A},\,\,\frac{{{Q}_{1}}-{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A}\]
+6 B)
+7 \[\frac{{{Q}_{1}}+{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A},\,\,\frac{{{Q}_{1}}+{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A}\]
+8 C)
+9 \[\frac{{{Q}_{1}}+{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A},\,\,\frac{{{Q}_{1}}-{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A}\]
+10 D)
+11 \[\frac{{{Q}_{1}}+{{Q}_{2}}}{{{\varepsilon }_{0}}A},\,\,\frac{{{Q}_{1}}-{{Q}_{2}}}{{{\varepsilon }_{0}}A}\] 
+12                           At 1, \[{{\operatorname{E}}_{1}} = \frac{{{\sigma }_{2}}}{2{{\varepsilon }_{0}}}+\frac{{{\sigma }_{1}}}{2{{\varepsilon }_{0}}} towards left\] At 2, \[{{\operatorname{E}}_{2}} = \frac{{{\sigma }_{2}}}{2{{\varepsilon }_{0}}}+\frac{{{\sigma }_{1}}}{2{{\varepsilon }_{0}}} towards right\] \[{{\sigma }_{2}}=\frac{{{Q}_{2}}}{A}\,and\,\,{{\sigma }_{1}}=\frac{{{Q}_{1}}}{A}\] \[\therefore \,\,\,\,\,\,\,\,\,{{E}_{1}}=\frac{{{Q}_{1}}+{{Q}_{2}}}{2\,{{\varepsilon }_{0}}A}\] and \[{{E}_{2}}=\frac{{{Q}_{2}}-{{Q}_{1}}}{2\,{{\varepsilon }_{0}}A}\]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 A particle is moving in X-Y plane, when position vectors are given as a function of time \[x= 2.0\,m\,-\,\left( 0.25 m/{{s}^{2}} \right){{t}^{2}}\] and \[\operatorname{y}= \left( 1.0 m/s \right)t\,+\,\,(0.025m/{{s}^{2}}){{t}^{2}}\] Find the unit vector along particle velocity at\[\operatorname{t}= 2s\].                            
+2 A)
+3 \[\frac{\hat{i}-2.2\,\hat{j}}{2.42}\] 
+4 B)
+5 \[\frac{-\,\hat{i}+1.3\,\hat{j}}{1.64}\]
+6 C)
+7 \[\frac{\hat{j}+\,\hat{k}}{\sqrt{2}}\] 
+8 D)
+9 None of these
+10                           \[x=2-0.25\,{{t}^{2}}\] \[\therefore \,\,\,\,\,\,\,\,\,\,\,\,\,{{v}_{x}}=\frac{dx}{dt}=\,\,-\,0.5\,t\] and \[\operatorname{y} =\,\,t+\,\,0.025 {{t}^{2}}\] \[{{v}_{\operatorname{y}}} =\,\,\frac{dy}{dt}=1+\,\,0.075 {{t}^{2}}\] \[{{\operatorname{v}}_{x/t=2}}=\,\,-1\,m\,/s,\,{{v}_{y/t\,=\,2}}\,\,=\,\,1.3\,\,m/s\] \[\therefore ~~v=\,\,v\times \hat{i}\,\,+\,\,{{v}_{y}}\,\hat{j}\,\,=\,\,-\,\hat{i}\,\,+\,\,1.3 \hat{j}\] \[\hat{v}=\frac{v}{\left| v \right|}=\frac{(-\hat{i}+1.3\hat{j})}{1.64}\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 Consider a region bounded by conical surface as shown in figure 
+2 <img height="97" id="Picture 40" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image050.jpg" width="124"/>
+3  In this region, E is in vertical upward direction. Find flux crossing this surface.                            
+4 A)
+5 \[E\pi {{r}^{2}}\,sin \theta \] 
+6 B)
+7 \[\frac{E}{3}\pi r/\,sin \theta \]
+8 C)
+9 \[E\pi {{r}^{2}}\] 
+10 D)
+11 \[\frac{E}{3}\pi {{r}^{2}}/\,cos \theta \]
+12                           Construct a plane surface on the base of cone as shown in figure as charge enclosed by this closed surface is zero, so flux crossing this surface is equal to zero. 
+13 <img height="95" id="Picture 81" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image051.jpg" width="108"/>
+14  i.e.,  \[\phi =0\] \[\Rightarrow \,\,\,{{\phi }_{plane\,\,surface}}+\,\,{{\phi }_{plane\,\,surface}}\,\,=\,\,0\] \[{{\phi }_{curved\,\,surface}}~=\,\,-{{\phi }_{plane\,\,surface}}\] \[=\,\,-\left( E.A \right)\] \[=\,\,-EA cos 180{}^\circ \] \[=\,\,+E\pi \,{{r}^{2}}\,\,=\,\,E\pi \,{{r}^{2}}\]
+15 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+16 Correct Answer: 
+                  C
+1 In the measurement of resistance of a wire using Ohm?s law, the plot between V and I drawn as shown 
+2 <img height="126" id="Picture 41" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image052.png" width="167"/>
+3  
+4 A)
+5 0.909 
+6 B)
+7 0.896
+8 C)
+9 1 
+10 D)
+11 None of these
+12                           A V-l curve for a linear device is a straight line passing through origin. Due to some errors all points may not lie in same line, in this situation we draw the most appropriate curve. From diagram \[R=\frac{4}{4}=1\,\Omega \]
+13 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+14 Correct Answer: 
+                  C
+1 If the concentration of glucose \[({{C}_{6}}{{H}_{12}}{{O}_{6}})\] in blood is\[0.9 g {{L}^{-\,1}}\]. What will be the molarity of glucose in blood?                            
+2 A)
+3 5 M 
+4 B)
+5 50 M
+6 C)
+7 0.005 M 
+8 D)
+9 0.5 M
+10                           \[0.9 g{{L}^{-}}^{1}\] means 1000 mL solution contains glucose \[= \,0.9 g\] \[=\,\,\frac{0.9}{180}\,mol=5\times {{10}^{-}}^{3}\,mol\] i.e., 1 L solution contains 0.005 mole glucose or the molarity of glucose is 0.005 M.
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  C
+1 The product P in following reaction is 
+2 <img height="49" id="Picture 42" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image053.jpg" width="224"/>
+3  
+4 A)
+5 2-phenyl propanoic acid
+6 B)
+7 benzoic acid
+8 C)
+9 2-phenyl ethanoic acid
+10 D)
+11 phenyl methanoic acid
+12                           Reaction sequence is as follows 
+13 <img height="106" id="Picture 82" src="https://www.studyadda.com/upload/html_folder/NEET_10_Sample_Test_Paper-10_R_QZ/NEET_10_Sample_Test_Paper-10_R_QZ_files/image054.jpg" width="221"/>
+14 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+15 Correct Answer: 
+                  D
+1 Under standard condition, what is the potential for the reaction? \[\operatorname{Sn}(s)+2F{{e}^{3\,+}}(aq)\,\,\xrightarrow{{}}\,\,2F{{e}^{2\,+}}(aq)+S{{n}^{2\,+}}(aq)\]\[E{{{}^\circ }_{F{{e}^{3\,+}}/F{{e}^{2\,+}}}}\,\,=\,\,0.77\,V\]                            
+2 A)
+3 - 0.91 V
+4 B)
+5 +0.91 V
+6 C)
+7 - 0.41 V 
+8 D)
+9 +0.41 V
+10                           Half cell reactions are \[[F{{e}^{3\,+}}+e\,\xrightarrow{{}}\,\,F{{e}^{2\,+}},\,\,E_{F{{e}^{3+}}/F{{e}^{2+}}}^{{}^\circ }=0.77\,\,V]\,\,\times \,\,2\] \[\operatorname{Sn}\,\,\xrightarrow{{}}\,\,S{{n}^{2+}}+\,\,2e, \,E_{Sn/S{{n}^{2\,+}}}^{{}^\circ }=\,\,+\,\,0.14\,V\] Adding Eqs. (i) and (ii), we get \[2F{{e}^{3\,+}}+\,\,Sn\,\xrightarrow{{}}\,\,2F{{e}^{2\,+}}+Sn\] \[E_{cell}^{{}^\circ }=0.77+0.14V=0.91V\]
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  B
+1 Bithional is added to soap because it function as a/an                            
+2 A)
+3 hardener 
+4 B)
+5 softner
+6 C)
+7 dryer
+8 D)
+9 antiseptic
+10                           Bithional is added to soap due to its antiseptic nature.
+11 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+12 Correct Answer: 
+                  D
+1 <table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse;border:none"> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> Which forces are involved in holding the drugs to the active site of enzymes? </td> </tr> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> I. Ionic bonding </td> </tr> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> II. Hydrogen bonding                                                       </td> </tr> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> III. van der Waal?s interaction </td> </tr> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> IV. Dipole-Dipole interaction </td> </tr> <tr> <td style="width:522.85pt;border:solid windowtext 1.0pt; border-top:none;padding:0in 5.4pt 0in 5.4pt" valign="top" width="697"> Choose the correct option. </td> </tr> </table>
+2  
+3 A)
+4 I and II 
+5 B)
+6 I and III
+7 C)
+8 II and IV 
+9 D)
+10 I, II, III and IV
+11                           Ionic bonding, H-bonding, van der Waal?s interaction, dipole-dipole interaction etc., are involved in holding the drugs to the active site of enzyme.
+12 <a href="https://www.studyadda.com/login" onclick="return showmsg();return false;">
+<i class="material-icons">warning</i> Report Error
+                    </a>
+13 Correct Answer: 
+                  D
