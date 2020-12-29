@@ -1,18 +1,34 @@
 import urllib.request
+from urllib.error import HTTPError, URLError
 import bs4 as bs
-import json, time, random
+import json, time, random, os
+from socket import timeout
 
 
-j_data = {"NEET_Sample_Test_Paper_83": []}
+j_data = {"NEET_Sample_Test_Paper_84": []}
 
 def update_json(data):
     global j_data
-    j_data['NEET_Sample_Test_Paper_83'].append(data)
+    j_data['NEET_Sample_Test_Paper_84'].append(data)
 
 def call_back(myurl, num):
     toremove = dict.fromkeys((ord(c) for c in u'\xa0\n\t'))
     # Fetch the html file
-    response = urllib.request.urlopen(myurl)
+    #response = urllib.request.urlopen(myurl)
+    try:
+        req = urllib.request.Request(myurl)
+        response = urllib.request.urlopen(req, timeout=1000)
+        print("I tried.")
+    except:
+        print("I failed.")
+    # try:
+    #     response = urllib.request.urlopen(myurl, timeout=100)#.read().decode('utf-8')
+    # except (HTTPError, URLError) as error:
+    #     print('Data not retrieved because %s\nURL: %s', error, myurl)
+    # except timeout:
+    #     print('socket timed out - URL %s', myurl)
+    # else:
+    #     print('Access successful.')
     html_doc = response.read()
 
     # Parse the html file
@@ -67,11 +83,11 @@ def call_back(myurl, num):
 
 if __name__ == "__main__":
     for i in range(180):
-        print(i)
-
-        myurl = 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-83_q1/1296/' + str(403162 + i)
+        myurl = 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-84_q1/1382/' + str(416717 + i)
         call_back(myurl, i+1)
-        time.sleep(random.randint(1, 9))
-    #print(jdata)
-    with open("NEET_Sample_Test_Paper_83.json", "w") as outfile:
+        x = random.randint(1, 9)
+        print(i, x)
+        time.sleep(x)
+    #print(j_data)
+    with open("NEET_Sample_Test_Paper_84.json", "w") as outfile:
         json.dump(j_data, outfile, indent=4, sort_keys=True)
