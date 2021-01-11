@@ -1,0 +1,8 @@
+myurl = 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-84_q1/1382/' + str(416717 + i), NEET_Sample_Test_Paper_84
+https://www.studyadda.com/sample-papers/neet-sample-test-paper-83_q1/1296/403162, NEET_Sample_Test_Paper_83
+https://www.studyadda.com/sample-papers/neet-sample-test-paper-85_q1/1383/416897, NEET_Sample_Test_Paper_85
+https://www.studyadda.com/sample-papers/neet-sample-test-paper-86_q1/1384/417077, NEET_Sample_Test_Paper_86
+https://www.studyadda.com/sample-papers/neet-sample-test-paper-87_q1/1385/417257, NEET_Sample_Test_Paper_87
+https://www.studyadda.com/sample-papers/neet-sample-test-paper-88_q1/1386/417437, NEET_Sample_Test_Paper_88
+link = [["NEET_Sample_Test_Paper_89", 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-89_q1/1387/', 417617],
+]

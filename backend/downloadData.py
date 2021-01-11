@@ -4,12 +4,9 @@ import bs4 as bs
 import json, time, random, os
 from socket import timeout
 
-
-j_data = {"NEET_Sample_Test_Paper_84": []}
-
 def update_json(data):
-    global j_data
-    j_data['NEET_Sample_Test_Paper_84'].append(data)
+    global j_data, tag_name
+    j_data[tag_name].append(data)
 
 def call_back(myurl, num):
     toremove = dict.fromkeys((ord(c) for c in u'\xa0\n\t'))
@@ -46,7 +43,7 @@ def call_back(myurl, num):
                 try:
                     text = text.translate(toremove)
                     if len(text):
-                        data += text
+                        data += text + " "
                         # print(i, data)
                 except:
                     data += str(text)
@@ -82,12 +79,22 @@ def call_back(myurl, num):
     update_json(one)
 
 if __name__ == "__main__":
-    for i in range(180):
-        myurl = 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-84_q1/1382/' + str(416717 + i)
-        call_back(myurl, i+1)
-        x = random.randint(1, 9)
-        print(i, x)
-        time.sleep(x)
-    #print(j_data)
-    with open("NEET_Sample_Test_Paper_84.json", "w") as outfile:
-        json.dump(j_data, outfile, indent=4, sort_keys=True)
+    link = [["NEET_Sample_Test_Paper_89", 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-89_q1/1387/',
+             417617],["NEET_Sample_Test_Paper_90", 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-90_q1/1388/',
+             417797], ["NEET_Sample_Test_Paper_91", 'https://www.studyadda.com/sample-papers/neet-sample-test-paper-91_q1/1389/',
+             417977]]
+    for one in link:
+        tag_name = one[0]
+        ll_1 = one[1]
+        ll_2 = one[2]
+        j_data = {tag_name: []}
+        for i in range(180):
+            myurl = ll_1 + str(ll_2 + i)
+            call_back(myurl, i+1)
+            # x = random.randint(1, 9)
+            # print(i, x)
+            # time.sleep(x)
+        #print(j_data)
+        fname = os.path.join("C:\\Users\\USER\\PycharmProjects\\moke_test", "source_data", tag_name+'_'+str(time.time()).split('.')[0]+".json")
+        with open(fname, "w") as outfile:
+            json.dump(j_data, outfile, indent=2)
